@@ -11,6 +11,8 @@ India's largest & most trusted Donation Platform. Every donation to this fund wi
 
 OUR MISSION
 
-India is a land poetically described as ‘Sujalam Sufalam’ which depicts a land bountifully endowed with natural beauty and richness of resources. We as an Indian have been professing the idea of ‘Vasudhaiva kutumbakam’ (The concept of global family hood) since time immemorial. Today, as the whole world recognizes it as a guiding philosophy for international brotherhood & peace across the continents, we see a need to instil this eternal philosophy in the minds of every Indian. We at My Home India are committed to facilitate a brighter India sans the psychological barriers of caste, creed, community, province and other forces of division.
+Donate to Ease the Humanitarian Crisis Caused by the Spread of Corona Virus
+
+With an astronomical increase in the number of COVID-19 infections in India in the first two weeks of April, 2021, we are faced with new challenges. Even as we reel from the impact of the first wave of infections and the lockdown, with the second wave vulnerable workers, children, and marginalised communities are looking at ever more precarious futures. With greater risks to their health, livelihoods, and safety. We need to come together against COVID in 2021 to ensure that the most vulnerable are not deprived of the most basic necessities of medical assistance, food, sanitation supplies, and access to dignified and safe work, while we fight the pandemic together now and going forward.
 
 This Website is built for the Sparks Foundation GRIP internship programme.
