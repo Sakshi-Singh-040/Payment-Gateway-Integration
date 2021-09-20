@@ -1,4 +1,4 @@
-# Payment gateway inegration
+# Payment gateway integration
 A project under GRIP for Sparks Foundation
 
 # Deployed Link
