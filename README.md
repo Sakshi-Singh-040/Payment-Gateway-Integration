@@ -2,12 +2,12 @@
 A project under GRIP for Sparks Foundation
 
 # Deployed Link
-https://myhomeindiaa.netlify.app/
+https://covid-19-donation.netlify.app
 
 # Description
 OUR VISION
 
-To see the world as a family under the concept of ‘Vasudhaiva Kutumbakam’.
+India's largest & most trusted Donation Platform. Every donation to this fund will help stop the virus spread & support vulnerable families
 
 OUR MISSION
 
